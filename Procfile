@@ -1,0 +1,1 @@
+web: gunicorn akvelonTestTask.wsgi --log-file -
